@@ -1,8 +1,7 @@
 # bearings-fault-classification
 
-This project was done as my final year project and is submitted to School of Mechanical and Industrial 
-Engineering, Addis Ababa University in partial fulfillment for the degree of Bachelor of Science in 
-Mechanical Engineerin.
+
+
 
 To this day, numerous maintenance actions follow preventive and run-to failure method. In 
 this paper, it has been attempted to show the power of predictive maintenance from vibration 
